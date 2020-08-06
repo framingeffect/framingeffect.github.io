@@ -23,4 +23,5 @@ If you're curious about what we are reading or things that generally spark our i
 You can contact us via email as well! We don't get a lot of mail, so there's a good chance we'll respond.
 
 <isaaclongenecker@gmail.com>
+
 <aesch.spencer@gmail.com>
