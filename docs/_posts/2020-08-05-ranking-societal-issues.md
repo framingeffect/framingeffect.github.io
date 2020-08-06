@@ -8,8 +8,8 @@ We are used to ranking significant issues by priority which could look something
 Under some set of values,
 
 {% raw %}
-$$priority = magnitude * time sensitivity$$
-{% endraw %}. 
+$$priority = magnitude * time\ sensitivity$$
+{% endraw %}.
 
 This is what dominates the rational public conversation. There is a finite amount of public thinkspace and we try to push the issues that are most important to us. Ideally, putting values aside for a moment, we could evaluate each problem and rank order them by sheer priority (magnitude x time). Even if we could do this there are certain *types* of problems that would float to the top. The problems at the top would be characterized by: a clear and present threat, personal consequences for society at large, and achievable in a binary, all or nothing sense. Let me explain with a potential example: A giant meteor is headed toward earth and upon impact will definitely wipe out humanity. This sort of problem is a “superhero problem”, the premise is clear, the narrative arc is set and all that’s left is for us to solve for x. If only all our problems looked like that today, in fact almost none of them look like that.
 
