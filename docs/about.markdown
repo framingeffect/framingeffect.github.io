@@ -12,8 +12,7 @@ showing this to be true (and inspired this blog along the way--no doubt one of t
 Kahneman is surely more informative that anything we put on this site. Well, decades later, human irrationality and cognitive bias persist, leaving the door
 wide open for chumps like us to think and talk about it.
 
-We will probably post about a whole lot of stuff. If our posts ever seem off-topic, you just don't understand the connection, and are thus committing some classic cognitive error.
-*You want us to be wrong, but we are right.*
+We will probably post about a whole lot of stuff. If our posts ever seem off-topic, you just don't understand the connection, and are thus committing some classic cognitive error. *You want us to be wrong, but we are right.* If you think we are being original, we’re certainly not. Origin
 
 If you're curious about what we are reading or things that generally spark our interests, check out our respective Pinboards:
 
