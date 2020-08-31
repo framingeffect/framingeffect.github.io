@@ -20,7 +20,10 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
+          <a class ="post-author"> {{post.author | escape}}</a>
+
         </h3>
+        <a class="post-exerpt"> {{post.content | markdownify | strip_html | truncatewords: 50 }}</a>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
