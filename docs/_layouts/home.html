@@ -22,10 +22,10 @@ footer:
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
-          <a class ="post-author"> {{post.author}}</a>
+          {{post.author}}
 
         </h3>
-        <a class="post-excerpt"> <p style="color:black"> <i>{{post.content | markdownify | strip_html | truncatewords: 50 }}</i></p></a>
+        <p style="color:black"> <i>{{post.content | markdownify | strip_html | truncatewords: 50 }}</i></p>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
         {%- endif -%}
