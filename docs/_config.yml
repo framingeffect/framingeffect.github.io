@@ -20,8 +20,7 @@
 
 title: Framing Effect
 description: >- # this means to ignore newlines until "baseurl:"
-  If this site seems boring and generic to you, that's because it is. It's built with jekyll,
-  and I (Spencer) still need to learn how it works. For now, it's a default theme with plain markdown.
+  Framing Effect is a blog created by Isaac Longenecker and Spencer Aeschliman.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
