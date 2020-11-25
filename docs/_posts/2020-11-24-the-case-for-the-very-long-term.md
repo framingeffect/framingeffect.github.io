@@ -3,6 +3,8 @@ layout: post
 author: Isaac Longenecker
 ---
 
+Hello?
+
 Consider how many people are alive today (~7.5 billion) compared to all the humans that have ever lived (~100 billion). Of the roughly 200,000 years Homo sapiens have been around, much of that time has come and gone with no significant progress in welfare (health, human rights, life expectancy, wealth, etc.) There is no doubt that our current generation is immensely privileged with respect to prior generations. We are also uniquely positioned to make a great impact on the future. As we grow richer in technology, energy, and knowledge, we must also accumulate the  wisdom and prudence necessary to stay in control of our future. Considering the trajectory of welfare up to this point, and the fact that our current population represents such a small fraction of total human lives and years that have been spent on earth, it seems reasonable to conclude that exponentially more lives (good lives!) have yet to be lived.  We are morally responsible for the future, the far future included.
 
 If you missed the last 4 years of U.S. politics then you won’t ask this question, but I’ll ask it anyway: How could we possibly screw this up?
@@ -55,7 +57,4 @@ With our moral biases, we may end up concluding saving 500 lives is as good (or 
 At the end of the day we have to make tough allocation decisions that have all too real effects. But accepting this argument for the long-term doesn't mean that we throw the baby out with the bathwater. We can carefully dispose of the bathwater, save the baby, and protect future babies from being thrown out! As mentioned above, many of the practical solutions we come up with today to solve contemporary issues will reap benefits far into the future. In fact, it seems difficult to come up with short-term single generational problems that do not have long-term potential. In this way long-termism does not look for tradeoffs, but should be used as a tool to compare solutions, reframe problems, and help coordinate and direct our future.  
 
 
-**Single-sentence refutation:**
-
-
-Despite a passionate case seemingly written by a person from the future, the lives of future people are “extra” and should be given diminished weight (despite the potentially bad fringe cases) because our primary concern should be making lives better rather than making better lives.
+**Single-sentence refutation**: Despite a passionate case seemingly written by a person from the future, the lives of future people are “extra” and should be given diminished weight (despite the potentially bad fringe cases) because our primary concern should be making lives better rather than making better lives.
